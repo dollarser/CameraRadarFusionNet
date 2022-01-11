@@ -13,6 +13,6 @@ pandas
 pyarrow 
 hilbertcurve
 matplotlib
-nuscenes-devkit @ git+https://github.com/Fellfalla/nuscenes-devkit.git@master
+nuscenes-devkit @ git+https://hub.fastgit.org/dollarser/nuscenes-devkit@master
 pydot
 keras_resnet
